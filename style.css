@@ -1,0 +1,17 @@
+.container{
+    font-family: serif;
+    font-style: italic;
+    max-width: 300px;
+    margin: auto;
+    background-color:aqua;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+input{
+    width: 100%;
+    display: block;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+}
